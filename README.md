@@ -1,1 +1,1 @@
-# neural-network-training
+# Practicing Neural Networks
